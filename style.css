@@ -1,0 +1,172 @@
+body{
+    background-color:white;
+    
+}
+
+.toparea{
+    background-color: #74EBD5;
+background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+
+    
+    padding: 20px 0;
+    height: 140px;
+}
+.logo img{
+    height: 90px;
+    
+}
+.toparea h1{
+    text-shadow: 5px 5px 5px gray;
+  margin-left:150px ;
+  
+  font-family: 'Abril Fatface', cursive;
+font-family: 'Ceviche One', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Noto Serif', serif;
+font-family: 'Playball', cursive;
+font-family: 'Yuji Mai', serif;
+}
+.social{
+    float: left;
+    padding-left: 280px;
+    
+}
+.form-inline{
+    margin-left: 40px;
+    padding-top: 20px;
+}
+
+.btn {
+    background:#74EBD5 ;
+    color: red;
+}
+.navbar{
+    margin-left: 150px;
+    width: 750px;
+}
+.button{
+    margin-top:7px;
+    margin-left:70px;
+}
+.slide img{
+    height: 500px;
+    width: 800px;
+}
+.carousel h5{
+    text-shadow: 5px 5px 5px #74EBD5;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Ceviche One', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Playball', cursive;
+    font-family: 'Yuji Mai', serif;
+    color: red;
+}
+.carousel p {
+    text-shadow: 5px 5px 5px #74EBD5;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Ceviche One', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Playball', cursive;
+    font-family: 'Yuji Mai', serif;
+    color: blue;
+}
+.boxarea{
+    background:#FFF;
+    padding:50px 0;
+}
+.boxarea h1{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Ceviche One', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Playball', cursive;
+    font-family: 'Yuji Mai', serif;
+    text-align: center;
+    text-shadow: 5px 5px 5px #74EBD5;
+    color: #000;
+    margin-top:25px;
+}
+
+.fix {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+.nav-link{
+    color: black!important;
+    font-weight: bold;
+    background: white;
+    padding: 10px 25px !important;
+}
+.nav-link:hover{
+    color: black!important;
+    
+    background-color: #74EBD5;
+    background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%); 
+    
+}
+.place h1{
+    text-shadow: 5px 5px 5px #74EBD5;
+    margin-top: 50px;
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Ceviche One', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Noto Serif', serif;
+font-family: 'Playball', cursive;
+font-family: 'Yuji Mai', serif;
+}
+.place h4 {
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Ceviche One', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Playball', cursive;
+    font-family: 'Yuji Mai', serif;
+    text-shadow: 5px 5px 5px #74EBD5;
+}
+.place h3 {
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Ceviche One', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Playball', cursive;
+    font-family: 'Yuji Mai', serif;
+    text-shadow: 5px 5px 5px #74EBD5;
+}
+
+.box img:hover{
+    transition: all 1s;
+    transform: scale(1.1,1.1);
+    margin: 20px;
+
+    box-shadow:10px 10px 10px #000;
+}
+.box img{
+    height: 300px;
+    border-radius:20px;
+    margin: 20px;
+    box-shadow: 10px 10px 10px   #74EBD5;
+    
+}
+.foot {
+    margin-top: 50px;
+    background-color: #74EBD5;
+    background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+}
+.foot h3{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.foot li {
+    margin-top: 10px;
+
+}
